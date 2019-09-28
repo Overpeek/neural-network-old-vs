@@ -1,0 +1,36 @@
+﻿  NeuralNetwork.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\eemel\source\repos\overpeek-engine\neural network\neuron.h(47): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\eemel\source\repos\overpeek-engine\neural network\neuralnetwork.cpp(49): warning C4267: '+=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\eemel\source\repos\overpeek-engine\neural network\neuralnetwork.cpp(67): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\eemel\source\repos\overpeek-engine\neural network\neuralnetwork.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\eemel\source\repos\overpeek-engine\neural network\neuralnetwork.cpp(119): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\eemel\source\repos\overpeek-engine\neural network\neuralnetwork.cpp(126): warning C4018: '<': signed/unsigned mismatch
+c:\users\eemel\source\repos\overpeek-engine\neural network\neuralnetwork.cpp(142): warning C4018: '<': signed/unsigned mismatch
+c:\users\eemel\source\repos\overpeek-engine\neural network\neuralnetwork.cpp(227): warning C4018: '<': signed/unsigned mismatch
+c:\users\eemel\source\repos\overpeek-engine\neural network\neuralnetwork.cpp(287): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\eemel\source\repos\overpeek-engine\neural network\neuralnetwork.cpp(414): warning C4018: '<': signed/unsigned mismatch
+c:\users\eemel\source\repos\overpeek-engine\neural network\neuralnetwork.cpp(425): warning C4018: '<': signed/unsigned mismatch
+c:\users\eemel\source\repos\overpeek-engine\neural network\neuralnetwork.cpp(443): warning C4018: '<': signed/unsigned mismatch
+c:\users\eemel\source\repos\overpeek-engine\neural network\neuralnetwork.cpp(447): warning C4018: '<': signed/unsigned mismatch
+c:\users\eemel\source\repos\overpeek-engine\neural network\neuralnetwork.cpp(467): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\eemel\source\repos\overpeek-engine\neural network\neuralnetwork.cpp(480): warning C4129: '%': unrecognized character escape sequence
+c:\users\eemel\source\repos\overpeek-engine\neural network\neuralnetwork.cpp(481): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\eemel\source\repos\overpeek-engine\neural network\neuralnetwork.cpp(501): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\eemel\source\repos\overpeek-engine\neural network\neuralnetwork.cpp(519): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\eemel\source\repos\overpeek-engine\neural network\neuralnetwork.cpp(538): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\eemel\source\repos\overpeek-engine\neural network\neuralnetwork.cpp(562): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\eemel\source\repos\overpeek-engine\neural network\neuralnetwork.cpp(566): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\eemel\source\repos\overpeek-engine\neural network\neuralnetwork.cpp(567): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\eemel\source\repos\overpeek-engine\neural network\math.h(21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  c:\users\eemel\source\repos\overpeek-engine\neural network\neuralnetwork.cpp(464): note: see reference to function template instantiation 'int math::argmax<float>(T *,size_t)' being compiled
+          with
+          [
+              T=float
+          ]
+  Generating code
+  2 of 440 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Neural Network.vcxproj -> C:\Users\eemel\source\repos\overpeek-engine\x64\Release\Neural Network.exe
